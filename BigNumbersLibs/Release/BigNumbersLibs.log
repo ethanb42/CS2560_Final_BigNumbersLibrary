@@ -1,0 +1,6 @@
+﻿  BigNumbers.cpp
+c:\users\ebald\source\repos\bignumberslibs\bignumberslibs\bignumbers.cpp(52): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\ebald\source\repos\bignumberslibs\bignumberslibs\bignumbers.cpp(54): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\ebald\source\repos\bignumberslibs\bignumberslibs\bignumbers.cpp(100): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\ebald\source\repos\bignumberslibs\bignumberslibs\bignumbers.cpp(102): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  BigNumbersLibs.vcxproj -> C:\Users\ebald\source\repos\BigNumbersLibs\Release\BigNumbersLibs.lib
